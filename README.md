@@ -13,3 +13,8 @@ This Jupyter Notebook, GeneSeq, uses Python to transcribe and then translate a g
 To run this notebook, you will need Python as well as the following library installed:
 * Biopython: For easier biological computation and NCBI BLAST access.
 
+## How to Run This Project:
+1. Clone this project.
+2. Install Biopython - 'pip install biopython'
+3. Input your gene sequence file as a .txt file and make sure to add in your own path for the file, whether using the Mystery_Gene.txt or your own gene sequence.
+4. 
