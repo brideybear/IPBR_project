@@ -1,4 +1,4 @@
-# IPBR_project
+# IPBR Project
 Welcome to my IPBR protein identifier project!
 This Jupyter Notebook, GeneSeq, uses Python to transcribe and then translate a gene sequence, then runs the amino acid sequence with an NCBI BLAST search in order to identify what protein it is.
 
