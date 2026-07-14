@@ -11,5 +11,5 @@ This Jupyter Notebook, GeneSeq, uses Python to transcribe and then translate a g
 
 ## Requirements
 To run this notebook, you will need Python as well as the following library installed:
-Biopython: For easier biological computation and NCBI BLAST access.
+* Biopython: For easier biological computation and NCBI BLAST access.
 
