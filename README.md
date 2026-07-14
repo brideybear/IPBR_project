@@ -1,2 +1,2 @@
 # IPBR_project
-protein identifier project
+Welcome to my IPBR protein identifier project!
