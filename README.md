@@ -17,4 +17,4 @@ To run this notebook, you will need Python as well as the following library inst
 1. Clone this project.
 2. Install Biopython - 'pip install biopython'
 3. Input your gene sequence file as a .txt file and make sure to add in your own path for the file, whether using the Mystery_Gene.txt or your own gene sequence.
-4. 
+4. Run all cells sequentially. The last 3 cells will take some time as executing a BLAST search can take some time. The final cell will output the tob BLAST match, identifying the likely organism and protein.
